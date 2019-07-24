@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{380:function(n,t,e){"use strict";e.r(t);var c=e(0),i=Object(c.a)({},function(){var n=this.$createElement,t=this._self._c||n;return t("div",{staticClass:"content"},[t("ClientOnly",[t("Icon-vi-icon")],1)],1)},[],!1,null,null,null);t.default=i.exports}}]);
